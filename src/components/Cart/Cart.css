@@ -1,0 +1,16 @@
+.cart-section{
+    padding: 30px;
+    line-height: 24px;
+    border: 1px solid ;
+    border-radius: 4px;
+    box-shadow: 10px 10px 40px 10px lightgray;
+    margin-top: 30px;
+    
+}
+
+.cart-item{
+    display : flex
+}
+.checkout{
+    margin-top: 10px;
+}

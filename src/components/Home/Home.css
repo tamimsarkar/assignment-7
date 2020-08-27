@@ -1,0 +1,10 @@
+.home-container{
+  display : flex;
+}
+.courses{
+    width: 60%;
+    border-right: 1px solid lightgray;
+}
+.cart{
+    width : 40%;
+}
